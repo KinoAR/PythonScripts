@@ -1,14 +1,8 @@
 #!/usr/bin/env python3
-"""This plugin creates a template plugin for RPGMakerMV style."""
+""" This plugin creates a template plugin for RPGMakerMV style. """
 
-import os
 import sys
 import textwrap
-
-def create_file(flename):
-    "Creates a file from scratch with a specified name"
-    return
-
 
 def write_template(flename):
     "Creates a template for a plugin"
