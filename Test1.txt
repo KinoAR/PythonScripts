@@ -1,1 +1,5 @@
 Hello World
+This is a text file with important information inside of it.
+It's the information regarding how much I love to program.
+I hope you enjoy reading this text file.
+:bird: ~
